@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Players",
+            "id": "477ba5b5-62af-4e38-b540-6309a6d69e68",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Button",
+                    "id": "ac0f4fca-6a28-449c-aefa-abeea520c07f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "af46e054-5e44-46e8-bd37-29497dc58eaf",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
